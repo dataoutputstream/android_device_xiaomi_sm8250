@@ -1,1 +1,1 @@
-# android_device_xiaomi_sm8250
+# android_vendor_xiaomi_sm8250
